@@ -5,7 +5,7 @@ function tachChuoi($chuoi, $kyTuPhanCach) {
 }
 
 // Ví dụ gọi hàm
-$chuoi = "mizu,reze,makima,chahein,PC,Pe,HNhat,WaterMellon"; // Thay đổi chuỗi ở đây
+$chuoi = "mizu,reze,makima,chahein,Cotruongca,liuzingzan,MINHLUAN,coconut"; // Thay đổi chuỗi ở đây
 $kyTuPhanCach = ",";  // Ký tự phân cách
 $mangPhanTach = tachChuoi($chuoi, $kyTuPhanCach);
 
